@@ -1,0 +1,6 @@
+These scripts have a condition that is setting "admin" as username and "hatohol" 
+as password. If you set different username and pass in your test environment,
+you edit utils.py.
+
+And, each test ware wrote my setting. For example, zabbix IP address, Redmine API key.
+When you test in your environment, you must change there setting.
